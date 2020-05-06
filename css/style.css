@@ -59,6 +59,7 @@ font-family: 'Muli', sans-serif;*/
 @import url('custom-animate.css');
 @import url('jquery.fancybox.min.css');
 @import url('jquery.mCustomScrollbar.min.css');
+@import url('hover.css');
 
 /*** 
 
@@ -11993,3 +11994,47 @@ img{
         border-radius: 0;
     }
 
+
+.web-port {
+	margin-bottom: 4%;
+}
+
+.sc_div {
+	
+	box-shadow: 2px 5px 18px -2px rgba(0,0,0,0.40);
+	height: max-content;
+}
+
+.web-port img {
+	width: 100%;
+}
+
+
+.mobile-apps-div img {
+	max-width: 90px;
+}
+
+.mobile-apps-div {
+	text-align: center;
+}
+
+.sub_heading_div {
+	margin-top: 5%;
+	text-align: center;
+}
+.sub_heading_div>a {
+	text-decoration: none;
+	color: #32343d;
+}
+
+.sub_heading_div h2 {
+	font-size: 18px;
+	font-weight: 700 !important;
+}
+
+.main_heading_div h2 {
+	font-size: 30px;
+	color: #32343d;
+	
+	font-weight: 700 !important;
+}

@@ -65,7 +65,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
         }
 
         $to = 'mytweet.rk@gmail.com';
-        $subject = 'Contact Form Submit';
+        $subject = 'Enquiry Form Submit';
 
           
 

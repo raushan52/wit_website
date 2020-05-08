@@ -64,7 +64,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
             $message_body .= "$key: $value\r\n";
         }
 
-        $to = 'mytweet.rk@gmail.com';
+        $to = 'sales@witarist.com';
         $subject = 'Enquiry Form Submit';
 
           

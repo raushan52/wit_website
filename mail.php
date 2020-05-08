@@ -71,7 +71,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
 
         if (mail($to, $subject, $message)){
             $success = "Message sent, thank you for contacting us!";
-            $name = $email = $phone = $message =  '';
+            $name = $email = $phone = $message = $country = '';
         }
     }
 }

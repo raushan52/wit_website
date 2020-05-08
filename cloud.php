@@ -7,7 +7,7 @@
     <meta name="description" content="WitArist is known for building impeccable, Innovative and top-notch Custom Software Development services and solutions to companies, businesses and individuals in Web, Mobile, Cloud based projects.
 ">
     <meta name="keywords" content="Mobile development, Web,development Cloud development, consulting, remote java developer, remote android developer, remote ios developer, website development, hire developers, contract developers, blockchain developers, remote oracle developer, best development company, native app development, react js developer hourly, react native developer on contract">
-    <title>Chat Bot || WitArist IT Services</title>
+    <title>Cloud Computing || Cloud Storage || Cloud App Development || WitArist IT Services</title>
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -38,10 +38,9 @@
     
     <div class="page-wrapper">
 
-         <!--main header of index-->
-         <div id="main_header"></div>
-         <!--main header of index-->
- 
+        <!--main header of index-->
+        <div id="main_header"></div>
+        <!--main header of index-->
 
         <!-- Preloader -->
         <div class="preloader"></div>
@@ -55,8 +54,8 @@
                     <div class="inner-container clearfix">
                         <div class="top-left float-right">
                             <ul class="contact-list clearfix">
-                                <li><i class="fa fa-envelope-o"></i> info@witarist.com</li>
-                                <li><i class="fa fa-phone"></i><a href="#">+91-9717095968</a></li>
+                                <li><i class="fa fa-envelope-o"></i> sales@witarist.com</li>
+                                <li><i class="fa fa-phone"></i><a href="#">+91-9971842701</a></li>
                                 <li class="ml-0"><a href="https://www.facebook.com/pg/witarist" target="_blank"><span class="fa fa-facebook-square"></span></a></li>
                                 <li><a href="https://twitter.com/wit_arist" target="_blank"><span class="fa fa-twitter-square"></span></a></li>
                                 <li><a href="https://www.linkedin.com/company/witarist" target="_blank"><span class="fa fa-linkedin-square"></span></a></li>
@@ -91,7 +90,7 @@
                                     <ul class="navigation clearfix">
                                         <li><a href="index.html">Home</a>
                                         </li>
-                                       <li class="dropdown"><a href="#">Our Company</a>
+                                        <li class="dropdown"><a href="#">Our Company</a>
                                             <ul class="dropdown-menu dropdown-menu-right ml-auto">
                                                 <li><a href="about.html#Overview">Overview</a></li>
                                                 <li><a href="about.html#About">About us </a></li>
@@ -109,7 +108,7 @@
 
                                                     <ul class="dropdown-menu dropdown-menu-right mr-auto">
                                                         <li><a href="technologies.html">Blockchain</a></li>
-                                                       
+                                                        
                                                         <li><a href="iot.html">IoT</a></li>
                                                         <li><a href="machine.html">Machine Learning</a></li>
                                                         <li><a href="mobility.html">Enterprise Mobility solutions</a></li>
@@ -126,11 +125,15 @@
                                                         <li><a href="enterprise.html">Enterprices</a></li>
                                                         <li><a href="staff.html">Staff Augmentation</a></li>
                                                         <li><a href="#">Technical Consulting</a></li>
+
                                                     </ul>
                                                 </li>
+
+
                                             </ul>
+
                                         </li>
-                                     <li class="dropdown"><a href="#">Services</a>
+                                        <li class="dropdown"><a href="#">Services</a>
                                         <ul class="dropdown-menu dropdown-menu-right ml-auto">
                                             <li class="dropdown"><a href="portfolio-2-column.html">Design</a>
                                                 <ul class="dropdown-menu dropdown-menu-right mr-auto">
@@ -159,8 +162,7 @@
                                                     <li><a href="digital.html#Online">Online reputation management (ORM)</a></li>
                                                 </ul>
                                             </li>
-                                            
-                                           <li class="dropdown"><a href="#">Infrastructures Solution</a>
+                                          <li class="dropdown"><a href="#">Infrastructures Solution</a>
                                                 <ul class="dropdown-menu dropdown-menu-right mr-auto">
                                                     <li><a href="infras.html#dev">DevOps</a></li>
                                                     <li><a href="infras.html#aws">AWS </a></li>
@@ -201,18 +203,18 @@
                     </div>
                 </div>
             </div>
-          
+            
 
-          
+            
             <div class="sticky-header">
                 <div class="auto-container clearfix">
-                   
+                    
                     <div class="logo pull-left">
                         <a href="index.html" class="img-responsive"><img src="images/logo-small.png" alt="" title=""></a>
                     </div>
-                   
+                    
                     <div class="right-col pull-right">
-                      
+                       
                         <nav class="main-menu navbar-expand-md">
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="icon-bar"></span>
@@ -223,7 +225,7 @@
                                 <ul class="navigation clearfix">
                                     <li><a href="index.html">Home</a>
                                     </li>
-                                    <li class="dropdown"><a href="#">Our Company</a>
+                                     <li class="dropdown"><a href="#">Our Company</a>
                                             <ul class="dropdown-menu dropdown-menu-right ml-auto">
                                                 <li><a href="about.html#Overview">Overview</a></li>
                                                 <li><a href="about.html#About">About us </a></li>
@@ -237,11 +239,11 @@
 
                                                 <ul class="dropdown-menu dropdown-menu-right mr-auto">
                                                     <li><a href="technologies.html">Blockchain</a></li>
-                                                  
+                                                    
                                                     <li><a href="iot.html">IoT</a></li>
                                                     <li><a href="machine.html">Machine Learning</a></li>
                                                     <li><a href="mobility.html">Enterprise Mobility solutions</a></li>
-                                                    <li><a href="#">Cloud app development</a></li>
+                                                    <li><a href="cloud.html">Cloud app development</a></li>
                                                     <li><a href="chatbot.html">Chatbot development</a></li>
                                                     <li><a href="maintaied.html">Maintained & Support 24/7</a></li>
                                                 </ul>
@@ -249,10 +251,10 @@
                                             </li>
                                             <li class="dropdown"><a href="portfolio-3-column.html">Sector</a>
                                                 <ul class="dropdown-menu dropdown-menu-right mr-auto">
-                                                    <li><a href="startup.html">Startups</a></li>
+                                                    <li><a href="startups.html">Startups</a></li>
                                                     <li><a href="sme.html">SMEs</a></li>
                                                     <li><a href="enterprise.html">Enterprices</a></li>
-                                                    <li><a href="#">Staff Augmentation</a></li>
+                                                    <li><a href="staff.html">Staff Augmentation</a></li>
                                                     <li><a href="#">Technical Consulting</a></li>
 
                                                 </ul>
@@ -341,61 +343,98 @@
         <section class="page-title page-title-height" style="background-image:url(images/background/block-chain.png)">
             <div class="auto-container">
                 <div class="content  col-12 col-md-7 pl-0" style="margin-top: 5rem;">
-                    <h1>“Chatbots represent a new trend in how people access information, make decisions and
-communicate”</h1>
-                    <p class="sub-title text-white">Chatbots are exciting new level to promote your product and interact with it on the same time.
-These are computer programme which are based on NLP and artificial intelligence technology
-and have images and voice features to highlight the client brand. It will not only answer queries
-which end users have but also showcase FAQs and or details or Menus as required by the client.
-It can support small and large scale business and simulate a conversation with a user in natural
-language through messaging applications, websites, mobile apps or through the telephone.</p>
+                    <h1>“Technology feeds on itself and makes anything possible with scalable and flexible Cloud
+Services”</h1>
+                    <p class="sub-title text-white">All Business applications can be easily designed and built at Wit Arist on Cloud based platforms
+for any environment with latest features, parameters, and automated workflows. It is basically
+a software program where all components work together to server product and business
+purpose. These apps can be viewed or used from web browser also or can be downloaded on
+desktop or mobile or portable devices.</p>
 
                 </div>
             </div>
         </section>
         <!--End Page Title-->
         <!-- logo-->
+        <section class="news-section py-5 bg-white">
+            <container>
+                <div class="row justify-content-center">
+                    <div class="col-12 col-md-12 col-lg-9 text-center">
+                         <h5 class="text">Build large-scale solutions and server-side applications that take full advantage of the hardware & location abstraction provided by modern cloud providers, giving your users a consistent and reliable experience across the globe. Net Solutions has the experience and expertise to design, build, maintain, and help you grow your cloud-based business.</h5>
+                    </div>
+                </div>
+            </container>
+         </section>
+         <section class="news-section py-0 bg-white">
+             <img src="images/OAYTRN0.jpg" alt="">
+         </section>
+       <section class="news-section py-5 bg-light client-logo">
+            <div class="auto-container">
+                <div class="sec-title centered">
+                    <h2>Platforms<span> </span></h2>
+
+                </div>
+                <div class="row mb-4 align-items-center">
+                    <div class="col-sm-2 text-center">
+                        <img src="images/brands/1.png" alt="nodejs">
+                        <!--                        <p>Node.js</p>-->
+                    </div>
+                    <div class="col-sm-4 text-center">
+                        <img src="images/brands/7.jpeg" alt="js">
+                        <!--                        <p>JavaScript</p>-->
+                    </div>
+                    <div class="col-sm-4 text-center">
+                        <img src="images/brands/3.jpeg" alt="ts">
+                        <!--                        <p>TypeScript</p>-->
+                    </div>
+                  
+
+                </div>
+
+            </div>
+        </section>
+         
         <section class="news-section pb-5 pt-5 bg-white client-logo">
             <div class="auto-container">
                 <div class="sec-title centered">
-                    <h2>Our Chatbot Development Services</h2>
-                    <p class="text px-0 px-md-5">Our chatbot developers provide highly intelligent and sophisticated chatbot solutions that can be implemented into diverse domains such as e-commerce, customer support, entertainment, delivery services or healthcare. </p>
+                    <h2>Cloud Application Development Services</h2>
+                    <p class="text px-0 px-md-5">Net Solutions provides both startups and enterprises all over the globe with a range of cloud application development services.</p>
+
+                </div>
+                <div class="row mb-4 align-items-start services-block-six">
+                    <div class="col-sm-4 inner-box text-center wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <img src="images/brands/chain.png" alt="nodejs">
+                        <h6>Solution Design</h6>
+                        <p class="text">Use Design Thinking with our technical skills and nearly two decades of experience to design a powerful, robust cloud-based application.</p>
+                    </div>
+                    <div class="col-sm-4 inner-box text-center wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <img src="images/brands/settings(1).png" alt="nodejs">
+                        <h6>SaaS Development</h6>
+                        <p class="text">Build powerful and scalable cloud-based applications using powerful and reliable back-end languages like Python, ASP.NET Core, PHP, etc.</p>
+                    </div>
+                    <div class="col-sm-4 inner-box text-center wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <img src="images/brands/Private-Blockchain.png" alt="nodejs">
+                        <h6>Infrastructure Design</h6>
+                        <p class="text">Identify and plan for the best and most appropriate cloud infrastructure for your cloud based application based on your product requirements.</p>
+                    </div>
+
 
                 </div>
                 <div class="row mb-4 align-items-center services-block-six">
                     <div class="col-sm-4 inner-box text-center wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
                         <img src="images/brands/chain.png" alt="nodejs">
-                        <h6>Conversation Design</h6>
-                        <p class="text">Essentially UI/UX 2.0. Our interfaces will drive conversations by amalgamating Natural Language Interfaces with traditional UI elements like buttons, menus and images. </p>
+                        <h6>Migration Services</h6>
+                        <p class="text">Move your cloud application fully between cloud providers or configure a multi-provider infrastructure for your application seamlessly.</p>
                     </div>
                     <div class="col-sm-4 inner-box text-center wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
                         <img src="images/brands/settings(1).png" alt="nodejs">
-                        <h6>Chatbot Architecture</h6>
-                        <p class="text">Our chatbot developers have built bots of our own for internal use and for customers, and we know which permutations of frameworks, APIs, and plugins will work best for which use cases. </p>
+                        <h6>Support & Maintenance</h6>
+                        <p class="text">Move maintenance of your cloud application to our expert maintenance team trusteed by brands globally and rest easy.</p>
                     </div>
                     <div class="col-sm-4 inner-box text-center wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
                         <img src="images/brands/Private-Blockchain.png" alt="nodejs">
-                        <h6>Natural Language Processing </h6>
-                        <p class="text">We use NLU and NLP to parse identify and languages various categories such as Intents, Actions, Entities and Context around which responses can be framed.</p>
-                    </div>
-
-
-                </div>
-                <div class="row mb-4 align-items-center services-block-six">
-                    <div class="col-sm-4 inner-box text-center wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
-                        <img src="images/brands/chain.png" alt="nodejs">
-                        <h6>Processing Pipeline</h6>
-                        <p class="text">Our chatbot developers help minimize false negatives and false positives with a pre-processing pipeline to handle common errors with dependency parsing, lemmatization, POS-checking etc.</p>
-                    </div>
-                    <div class="col-sm-4 inner-box text-center wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
-                        <img src="images/brands/settings(1).png" alt="nodejs">
-                        <h6>Deployment & Integration</h6>
-                        <p class="text">Once preprocessing is done, the chatbot is ready to deploy. Our chatbot developers can do either cloud or on-premise deployment and microservices/REST-based architecture for minimal downtime. </p>
-                    </div>
-                    <div class="col-sm-4 inner-box text-center wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
-                        <img src="images/brands/Private-Blockchain.png" alt="nodejs">
-                        <h6>Chatbot Consultancy</h6>
-                        <p class="text">If you have any query related to the chatbot development, feel free to contact us. Our consultant will provide you free advice on Chatbot design and development. </p>
+                        <h6>Independent Testing</h6>
+                        <p class="text">Get your cloud application professionally tested with our testing services that include functionality testing, code review, load testing, and more.</p>
                     </div>
 
 
@@ -403,513 +442,103 @@ language through messaging applications, websites, mobile apps or through the te
 
             </div>
         </section>
-        <section class="pb-5 pt-4 bg-light">
+        <section class="news-section pb-5 pt-5 bg-light client-logo">
             <div class="auto-container">
-                <div class="sec-title centered pt-3">
-                    <h2>Some Chatbot Used Cases</h2>
-                    <p class="text">Chatbots can be implemented across different industry verticals as they can take care of multiple services like complains, customer care, and feedback, booking, searching, handling payment procedure etc. Thus, chatbots can handle a number of tasks in the following Industries : </p>
+                <div class="sec-title centered">
+                    <h2>What Makes Us Different</h2>
+                    <p class="text px-0 px-md-5">Net Solutions provides both startups and enterprises all over the globe with a range of cloud application development services.</p>
 
                 </div>
-                <div class="row clearfix align-items-stretch">
-
-                    <!-- Services Block Six -->
-                    <div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                            <div class="card text-center px-4 py-3  border-0 shadow">
-                                <div class="row">
-
-                                    <div class="col-12">
-
-                                        <h6 class="mt-2"><a href="#">E-commerce Chatbot</a></h6>
-                                        <div class="text">eCommerce Chatbots can reach out to more customers. The bot can list products, list menus, answer live questions, add products to cart, process orders, make product suggestions, & send shipping updates.</div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
+                <div class="row mb-4 align-items-start services-block-six">
+                    <div class="col-sm-6 inner-box text-left wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                       
+                        <h6>Security Focussed Cloud Application Development</h6>
+                        <p class="text">We take special care to sensitise our cloud application developers to industry-leading application security practices.</p>
                     </div>
-
-                    <!-- Services Block Six -->
-                    <div class="services-block-six col-lg-4 col-md-12 col-sm-12 align-self-stretch">
-                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
-                            <div class="card text-center px-4 py-3 border-0 shadow">
-                                <div class="row">
-
-                                    <div class="col-12">
-
-                                        <h6 class="mt-2"><a href="#">Ticketing Chatbot</a></h6>
-                                        <div class="text">Clients can directly interact with the chatbot for booking and searching tickets. They can check date and time of travel, ticket pricing, etc. In addition to this, Chatbots can inform if there are any changes in schedule.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                        </div>
+                    <div class="col-sm-6 inner-box text-left wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                      
+                        <h6>Constantly Updated Cloud Application Developers</h6>
+                        <p class="text">Our experienced cloud application developers are constantly upskilled and trained for latest in server-side languages, databases, and IDEs.</p>
                     </div>
-
-                    <!-- Services Block Six -->
-                    <div class="services-block-six  col-lg-4 col-md-12 col-sm-12">
-                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                            <div class="card text-center px-4 py-3 border-0 shadow">
-                                <div class="row">
-                                    <div class="col-12">
-
-                                        <h6 class="mt-2"><a href="#">News Chatbot</a></h6>
-                                        <div class="text">News Chatbots can send personalized alerts, breaking news, specific stories, live sports scores from a specific web app, in a chat message. In addition to this, it can send a list of stories from multiple publishing platforms.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                        </div>
-                    </div>
-
-                    <!-- Services Block Six -->
-                    <div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
-                            <div class="card text-center px-4 py-3 border-0 shadow">
-                                <div class="row">
-                                    <div class="col-12">
-
-                                        <h6 class="mt-2"><a href="#">Food Ordering Chatbot</a></h6>
-                                        <div class="text">Food ordering Chatbots allows order food online, diners to reserve tables, browse important information & menu through the restaurant's Facebook Messenger in a more convenient way.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                        </div>
-                    </div>
-
-                    <!-- Services Block Six -->
-                    <div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                            <div class="card text-center px-4 py-3 border-0 shadow">
-                                <div class="row">
-                                    <div class="col-12">
-
-                                        <h6 class="mt-2"><a href="#">Hotel Booking Chatbot</a></h6>
-                                        <div class="text">Hotel booking Chatbots help peoples to browse, search and make hotel reservations. Chatbots can also enhance the communication with guests before, during and after their stay in hotel.</div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-                        </div>
-                    </div>
-
-                    <!-- Services Block Six -->
-                    <div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
-                            <div class="card text-center px-4 py-3 border-0 shadow">
-                                <div class="row">
-                                    <div class="col-12">
-
-                                        <h6 class="mt-2"><a href="#">Customer Support Chatbot</a></h6>
-                                        <div class="text">t can easily replace live chat agents. They can reply to frequently-asked-questions or offer timely information. A chatbot can reply, provide correct answers or even escalate request.</div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                        </div>
-                    </div>
-                    <!-- Services Block Six -->
-                    <div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
-                            <div class="card text-center px-4 py-3 border-0 shadow">
-                                <div class="row">
-                                    <div class="col-12">
-
-                                        <h6 class="mt-2"><a href="#">Finance Chatbot</a></h6>
-                                        <div class="text">Chatbots can also send push notifications with live stock updates of various firms based on the preference of clients. Chatbots can provide updates about client's bank account balance, credit card, etc.</div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                        </div>
-                    </div>
-                    <!-- Services Block Six -->
-                    <div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
-                            <div class="card text-center px-4 py-3 border-0 shadow">
-                                <div class="row">
-                                    <div class="col-12">
-
-                                        <h6 class="mt-2"><a href="#">Legal Assist Chatbot</a></h6>
-                                        <div class="text">These Chatbots provides price quotes, legal assistance, and various other legal advices to the people who are starting a new business and also to those who already running a business and need legal help.</div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                        </div>
-                    </div>
-                    <div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
-                            <div class="card text-center px-4 py-3 border-0 shadow">
-                                <div class="row">
-                                    <div class="col-12">
-
-                                        <h6 class="mt-2"><a href="#">Healthcare Chatbot</a></h6>
-                                        <div class="text">Embedding Chatbots with the calendars can improve the frquency & efficiency of booking appointments with the doctors. Doctors & physicians can strengthen their patient connection through value-rich interactions.</div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                        </div>
-                    </div>
+                    
 
                 </div>
-                <!-- Services Text -->
-
+                <div class="row mb-4 align-items-center services-block-six">
+                    <div class="col-sm-6 inner-box text-left wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        
+                        <h6>Enterprise Delivery Practices</h6>
+                        <p class="text">We follow enterprise-grade best development and coding practices like Continuous Integration, Continuous Deployment, and IFSQ standards.</p>
+                    </div>
+                    <div class="col-sm-6 inner-box text-left wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                       
+                        <h6>Agile Processes Focussed</h6>
+                        <p class="text">We provide rigorous training of best engineering practices and processes like Agile methodology using SCRUM and DevOps. </p>
+                    </div>
+                </div>
 
             </div>
         </section>
-        <section class="services-section-seven py-4">
-		<div class="auto-container">
-		      <div class="sec-title centered pt-3">
-                    <h2>Chatbot Development Platforms</h2>
-                    <p class="text">There are many emerging chatbot development platforms which can be used to build chatbots. Some are Open Source, while some are privately owned. Few popular platforms among chatbot developers are as follows:</p>
-
-                </div>
-			<div class="inner-container mt-4">
-				<div class="clearfix">
-					
-					<!-- Services Block Ten -->
-					<div class="services-block-ten col-lg-6 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInUp animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
-						
-							<ul class="list-style-three">
-								<li>Facebook bot (Wit.ai is Facebook's free chat BOT engine Platform)</li>
-								<li>Dialogflow (Google's conversational user experience platform)</li>
-								<li>Kik codes</li>
-								<li>Pandorabots</li>
-								<li>Rasa (Open Source)</li>
-								<li>Slack</li>
-							</ul>
-						</div>
-					</div>
-					
-					<!-- Services Block Ten -->
-					<div class="services-block-ten col-lg-6 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInUp;">
-						
-							<ul class="list-style-three">
-								<li>Chatscripts</li>
-								<li>Motion.ai</li>
-								<li>Telegram</li>
-								<li>Microsoft</li>
-								<li>Oracle Intelligent Bots</li>
-								<li>Skype</li>
-							</ul>
-						</div>
-					</div>
-					
-					
-					
-				</div>
-			</div>
-		</div>
-	</section>
-        <section class="services-section-five py-4">
-		<div class="auto-container">
-		 <div class="sec-title centered pt-3">
-                    <h2>Benefits of Using Chatbot </h2>
-                    <p class="text">Chatbot is the demand of the digital world. It enhances customer interaction and provides them best in domain support. Here are some more benefits of chatbot: </p>
-
-                </div>
-			<div class="row clearfix">
-				
-				<!-- Services Block Six -->
-				<div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-					<div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-						
-						<h6>Provides unmatched control and transparency during operation phase</h6>
-						
-					</div>
-				</div>
-				
-				<!-- Services Block Six -->
-				<div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-					<div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
-						
-						<h6>Can be scaled quickly allowing you to be the change instead of being part of it</h6>
-					
-					</div>
-				</div>
-				
-				<!-- Services Block Six -->
-				<div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-					<div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-						
-						<h6>They offer easy to use interface and can be encoded to perform automated actions </h6>
-						
-					</div>
-				</div>
-				
-				<!-- Services Block Six -->
-				<div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-					<div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
-						
-						<h6>Chatbots are comparatively less expensive and easy to build but with a higher adoption rate </h6>
-						
-					</div>
-				</div>
-				
-				<!-- Services Block Six -->
-				<div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-					<div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-						
-						<h6>Chatbots are more human and can also be programmed to serve in different languages</h6>
-						
-					</div>
-				</div>
-				
-				<!-- Services Block Six -->
-				<div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-					<div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
-						
-						<h6>Uncompromised privacy standards Automated transactions and workflows </h6>
-						
-					</div>
-				</div>
-				<!-- Services Block Six -->
-				<div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-					<div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
-						
-						<h6>It improvises mobile marketing efforts and eventually yields better results for you</h6>
-						
-					</div>
-				</div>
-				<!-- Services Block Six -->
-				<div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-					<div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
-						
-						<h6>They offer personalized interaction which eventually increases customer retention and loyalty</h6>
-						
-					</div>
-				</div>
-				<!-- Services Block Six -->
-				<div class="services-block-six col-lg-4 col-md-12 col-sm-12">
-					<div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
-						
-						<h6>Friendly and realistic language makes you interact efficiently with your users</h6>
-						
-					</div>
-				</div>
-				
-			</div>
-			<!-- Services Text -->
+             
+        
+         
+        
+    <!--Sponsors Section-->
+	<section class="sponsors-section py-0">
+		<div class="container-fluid px-0">
 			
+			<div class="carousel-outer">
+                <!--Sponsors Slider-->
+                <ul class="cloud owl-carousel owl-theme">
+                    <li><div class="image-box"><a href="#"><img src="images/OAYTRN0.jpg" alt=""></a></div></li>
+                    <li><div class="image-box"><a href="#"><img src="images/background/10.jpg" alt=""></a></div></li>
+                    <li><div class="image-box"><a href="#"><img src="images/background/4.jpg" alt=""></a></div></li>
+                    
+                </ul>
+            </div>
 			
 		</div>
 	</section>
-        <section class="services-section-eight py-5">
-		<div class="auto-container">
-		 <div class="sec-title centered pt-3">
-                    <h2>Why Choose PixelCrayons? </h2>
-                    <p class="text">Stringent quality testing, timely delivery, ethical business practices is a start at PixelCrayons! Here are some of the benefits you get when you outsource Chatbot development projects to us:</p>
-
-                </div>
-			<div class="row clearfix">
-			<!-- Content Column -->
-			<div class="content-column col-lg-12 col-md-12 col-sm-12">
-				<div class="inner-column">
-					<div class="row clearfix">
-						
-						<!-- Services Block Eleven -->
-						<div class="services-block-eleven col-lg-4 col-md-6 col-sm-12">
-							<div class="inner-box wow fadeInUp animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
-								<div class="border-one"></div>
-								<div class="border-two"></div>
-								<div class="content">
-									<div class="icon-box">
-										<span class="icon fa fa-bullhorn"></span>
-									</div>
-									<h6><a href="services-single.html">Dedicated A/c Manager </a></h6>
-									<div class="text">We depute dedicated Account Managers as your Single-Point Of-Contact during the entire process. </div>
-								</div>
-							</div>
-						</div>
-						
-						<!-- Services Block Eleven -->
-						<div class="services-block-eleven col-lg-4 col-md-6 col-sm-12">
-							<div class="inner-box wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInUp;">
-								<div class="border-one"></div>
-								<div class="border-two"></div>
-								<div class="content">
-									<div class="icon-box">
-										<span class="icon fa fa-suitcase"></span>
-									</div>
-									<h6><a href="services-single.html">Price Match Guaranteed </a></h6>
-									<div class="text">We'll price-match a lower quote from an equitable provider, if you can get one! </div>
-								</div>
-							</div>
-						</div>
-						
-						<!-- Services Block Eleven -->
-						<div class="services-block-eleven col-lg-4 col-md-6 col-sm-12">
-							<div class="inner-box wow fadeInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 600ms; animation-name: fadeInUp;">
-								<div class="border-one"></div>
-								<div class="border-two"></div>
-								<div class="content">
-									<div class="icon-box">
-										<span class="icon fa fa-area-chart"></span>
-									</div>
-									<h6><a href="services-single.html">Processes & Tools </a></h6>
-									<div class="text">We follow agile methodology and use proven tools to ensure optimum execution and success.</div>
-								</div>
-							</div>
-						</div>
-						
-						<!-- Services Block Eleven -->
-						<div class="services-block-eleven col-lg-4 col-md-6 col-sm-12">
-							<div class="inner-box wow fadeInUp animated" data-wow-delay="900ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 900ms; animation-name: fadeInUp;">
-								<div class="border-one"></div>
-								<div class="border-two"></div>
-								<div class="content">
-									<div class="icon-box">
-										<span class="icon fa fa-coffee"></span>
-									</div>
-									<h6><a href="services-single.html">Experienced Team </a></h6>
-									<div class="text">Our team has an average 4+ years experience in delivering commercial grade apps.</div>
-								</div>
-							</div>
-						</div>
-						
-						<!-- Services Block Eleven -->
-						<div class="services-block-eleven col-lg-4 col-md-6 col-sm-12">
-							<div class="inner-box wow fadeInUp animated" data-wow-delay="1200ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 1200ms; animation-name: fadeInUp;">
-								<div class="border-one"></div>
-								<div class="border-two"></div>
-								<div class="content">
-									<div class="icon-box">
-										<span class="icon fa fa-building"></span>
-									</div>
-									<h6><a href="services-single.html">World Class Services </a></h6>
-									<div class="text">Our services are renowned for solid communication and world-class support.</div>
-								</div>
-							</div>
-						</div>
-						
-						<!-- Services Block Eleven -->
-						<div class="services-block-eleven col-lg-4 col-md-6 col-sm-12">
-							<div class="inner-box wow fadeInUp animated" data-wow-delay="1500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 1500ms; animation-name: fadeInUp;">
-								<div class="border-one"></div>
-								<div class="border-two"></div>
-								<div class="content">
-									<div class="icon-box">
-										<span class="icon fa fa-pie-chart"></span>
-									</div>
-									<h6><a href="services-single.html">First Time RIght </a></h6>
-									<div class="text">We have adopted FTR (First Time Right) performance meaning high quality deliveries.</div>
-								</div>
-							</div>
-						</div>
-						
-					</div>
-				</div>
-			</div>
-			
-			
-			</div>
-		</div>
-	</section>
-        <section class="services-section-seven py-5">
-		<div class="auto-container">
-		 <div class="sec-title centered pt-3">
-                    <h2>Our Engagement Models</h2>
-                    <p class="text">Being a leading chatbot development company in India, we provide flexible engagement models in order to meet diverse business needs and demands</p>
-
-                </div>
-			<div class="inner-container my-4">
-				<div class="row clearfix">
-					
-					<!-- Services Block Ten -->
-					<div class="services-block-ten col-lg-6 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInUp animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
-							
-							<div class="upper-box d-flex flex-column">
-								<div class="icon-box">
-									<span class="icon flaticon-medal-1"></span>
-								</div>
-								<h4><a href="#">Dedicated Resource Model (DRM)</a></h4>
-							</div>
-							<div class="text">In this model, we provide you with dedicated infrastructure and skilled professionals who work exclusively on your project.
-
-Choose this model if you want total control of development processes and don’t want to get into fuss of hiring employees.</div>
-							<ul class="list-style-three">
-								<li>No hidden costs</li>
-								<li>Monthly billing</li>
-								<li>Pay only for measurable work done</li>
-							</ul>
-						</div>
-					</div>
-					
-					<!-- Services Block Ten -->
-					<div class="services-block-ten col-lg-6 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInUp;">
-						
-							<div class="upper-box">
-								<div class="icon-box">
-									<span class="icon flaticon-diamond-1"></span>
-								</div>
-								<h4><a href="#">Fixed Time & Fixed Price</a></h4>
-							</div>
-							<div class="text">Under this low-risk model, we work with clients to define expected deliverables and timelines to determine a mutually agreed fixed price. Choose this model if your requirements are unlikely to alter and project duration can be determined.</div>
-							<ul class="list-style-three">
-								<li>Know what you’re getting, and how much it will be</li>
-								<li>Requires no change in price unless your needs it</li>
-								<li>Can be split and paid in milestones</li>
-								
-							</ul>
-						</div>
-					</div>
-					
-				
-					
-					
-				</div>
-			</div>
-		</div>
-	</section>
+	<!--End Sponsors Section-->    
+        
 <section class="news-section pb-5 pt-5 bg-white client-logo">
             <div class="auto-container">
                 <div class="sec-title centered">
-                    <h2>Our Chatbot Development Process </h2>
+                    <h2>Why Work with Us </h2>
                     <p class="text px-0 px-md-5">We follow agile Chatbot development process in order to ensure timely delivery to our clients. Here is the complete process:</p>
 
                 </div>
                 <div class="row mb-4 align-items-start services-block-six">
-                    <div class="col-sm-4 inner-box text-left wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                    <div class="col-sm-6 inner-box text-left wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
                    
                         <div class="row">
                             <div class="col-2"><span class="fa fa-angle-right"></span></div>
-                            <div class="col-10"><h6>REQUIREMENT GATHERING</h6></div>
+                            <div class="col-10"><h6>19+ Years of Experience</h6></div>
                         </div>
-                        <p class="text">You (the client) contact us and share your project requirement with us. Then, our experts will review your project and contact you within 24 hours. </p>
+                        <p class="text">An established cloud application development company with over 19 years in servicing clients globally, you know you are in good hands when you sign up with us. The depth of experience shows. </p>
                     </div>
-                    <div class="col-sm-4 inner-box text-left wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                    <div class="col-sm-6 inner-box text-left wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
 
-                        <h6>CHOOSE ENGAGEMENT
-MODELS & TIMELINES</h6>
-                        <p class="text">Based on the project, our experts suggest you the best engagement model, estimated timelines and cost for project development.</p>
+                         <div class="row">
+                            <div class="col-2"><span class="fa fa-angle-right"></span></div>
+                            <div class="col-10"><h6>Focus On Standards & Quality</h6></div>
+                        </div>
+                        <p class="text">All our cloud application developers are trained against and follow best-in-class coding standards that are enforced through automated & manual code reviews.</p>
                     </div>
-                    <div class="col-sm-4 inner-box text-left wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                    <div class="col-sm-6 inner-box text-left wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
                         
-                        <h6>PROJECT INITIATION
-& DELIVERY </h6>
-                        <p class="text">As per engagement model, project is allocated to an expert team, and after robust quality analysis our project manager delivers project as per timeline.</p>
+                        <div class="row">
+                            <div class="col-2"><span class="fa fa-angle-right"></span></div>
+                            <div class="col-10"><h6>Handpicked Cloud Application Developers</h6></div>
+                        </div>
+                        <p class="text">We have some of the best cloud application developers in the world. Besides the usual technical skills, we also evaluate aptitude & attitude of every person.</p>
                     </div>
-
-
+                     <div class="col-sm-6 inner-box text-left wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <div class="row">
+                            <div class="col-2"><span class="fa fa-angle-right"></span></div>
+                            <div class="col-10"><h6>Flexible Contracts</h6></div>
+                        </div>
+                        <p class="text">Recognising the varied situations that can exist for our clients, we have very flexible terms of engagement that are designed for maximum client benefit.</p>
+                    </div>
                 </div>
                 
 
@@ -930,22 +559,26 @@ MODELS & TIMELINES</h6>
                 </div>
                 <div class="row mb-4 justify-content-center">
                     <div class="col-sm-7 form-inner rounded px-4 border border-primary py-4 shadow-sm">
-                        <form action="mail.php" class="row" method="POST">
+                    <?php include('mail.php'); ?>
+                        <form action="<?= $_SERVER['PHP_SELF']; ?>" class="row" method="POST">
                             <div class="form-group col-sm-6">
                                 <label >Name <span class="text-danger">*</span></label>
-                                <input type="text" class="form-control" placeholder="Name" id="email" name="name">
+                                <input type="text" class="form-control" placeholder="Name" id="email" name="name" value="<?= $name ?>">
+                                <span class="form-error"><?= $name_error ?></span>
                             </div>
                             <div class="form-group col-sm-6">
                                 <label >Email <span class="text-danger">*</span></label>
-                                <input type="email" class="form-control" placeholder="Email" id="pwd" name="email">
+                                <input type="text" class="form-control" placeholder="Email" id="pwd" name="email" value="<?= $email ?>">
+                                <span class="form-error"><?= $email_error ?></span>
                             </div>
                             <div class="form-group col-sm-6">
                                 <label >Mobile Number <span class="text-danger">*</span></label>
-                                <input type="tel" class="form-control" placeholder="Mobile Number" id="pwd" name="phone">
+                                <input type="text" class="form-control" placeholder="Mobile Number" id="pwd" name="phone" value="<?= $phone ?>">
+                                <span class="form-error"><?= $phone_error ?></span>
                             </div>
                             <div class="form-group col-sm-6">
                                 <label for="country">State <span class="text-danger">*</span></label>
-                                <select  class="form-control" name="country">
+                                <select  class="form-control" name="country" value="<?= $country ?>">
                                     <option value="INDIA">India</option>
                                     <option value="UK">UK</option>
                                     <option value="USA">US</option>
@@ -963,16 +596,17 @@ MODELS & TIMELINES</h6>
                             </div>
                             <div class="form-group col-sm-12">
                                 <label for="query">Query (Optional)</label>
-                                <textarea class="form-control" rows="3" placeholder="Enter Query" name="query"></textarea>
+                                <textarea class="form-control" rows="3" placeholder="Enter Query" name="message" value="<?= $message ?>"></textarea>
                             </div>
-                             <div class="form-group col-12">
-    <label for="exampleFormControlFile1">Document</label>
-    <input type="file" class="form-control-file" id="exampleFormControlFile1" name="attachment">
-  </div>
+                             <!--<div class="form-group col-12">
+                                <label for="exampleFormControlFile1">Document</label>
+                                <input type="file" class="form-control-file" id="exampleFormControlFile1" name="attachment">
+                            </div>-->
 
                             <div class="d-flex justify-content-center col-12">
-                                 <button type="submit" class="btn btn-success mx-auto">Submit Query</button>
+                                 <button type="submit" name="submit" class="btn btn-success mx-auto" data-submit="...Sending">Submit Query</button>
                             </div>
+                            <div class="sent_message"><?= $success; ?></div>
                         </form>
                     </div>
                 </div>
@@ -986,13 +620,14 @@ MODELS & TIMELINES</h6>
          <div id="footer_index"></div>
          <!--footer #index-->
 
+
         <!--Main Footer-->
         <!--<footer class="main-footer">
             <div class="auto-container">
                 
                 <div class="widgets-section">
                     <div class="row clearfix">
-                        
+                      
                         <div class="big-column col-lg-6 col-md-12 col-sm-12">
                             <div class="row clearfix">
                                
@@ -1003,8 +638,7 @@ MODELS & TIMELINES</h6>
                                         </div>
                                         <div class="text">Intelligence with Excellence</div>
                                         <ul class="list-style-two">
-                                            <li><span class="icon fa fa-phone"></span>+91-9717095968</li>
-                                            <li><span class="icon fa fa-envelope"></span>info@witarist.com</li>
+                                            <li><span class="icon fa fa-phone"></span>+91-9971842701</li>
                                             <li><span class="icon fa fa-envelope"></span> sales@witarist.com</li>
                                             <li><span class="icon fa fa-home"></span>D-35, E Block, Sector 7, Noida<br>Uttar Pradesh, 201301</li>
                                         </ul>
@@ -1027,7 +661,7 @@ MODELS & TIMELINES</h6>
                                 </div>
                             </div>
                         </div>
-                        
+                       
                         <div class="big-column col-lg-6 col-md-12 col-sm-12">
                             <div class="row clearfix">
                                 
@@ -1092,8 +726,8 @@ MODELS & TIMELINES</h6>
                         <div class="copyright-column col-lg-12 col-md-12 col-sm-12 ">
                             <div class="copyright text-center">2019 &copy; All rights reserved by <a href="#">Wit Arist</a></div>
                         </div>
-                        
-                        
+                       
+                       
                         <div class="social-column col-lg-6 col-md-6 col-sm-12">
 
                             <ul>

@@ -12038,3 +12038,14 @@ img{
 	
 	font-weight: 700 !important;
 }
+
+.form-error {
+	color: red;
+}
+
+.sent_message {
+	color: green;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 15px;
+}

@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8">
     <meta charset="utf-8">
     <meta name="description" content="WitArist is known for building impeccable, Innovative and top-notch Custom Software Development services and solutions to companies, businesses and individuals in Web, Mobile, Cloud based projects.
 ">
     <meta name="keywords" content="Mobile development, Web,development Cloud development, consulting, remote java developer, remote android developer, remote ios developer, website development, hire developers, contract developers, blockchain developers, remote oracle developer, best development company, native app development, react js developer hourly, react native developer on contract">
-    <title>Mobility || WitArist IT Services</title>
+    <title>Machine Learning | ML | WitArist IT Services</title>
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -22,7 +23,6 @@
     <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
     <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 
-
     <script src="js/jquery.js"></script>
 
             <script> 
@@ -32,28 +32,23 @@
             
             });
             </script> 
-      <style>
-                             .list li{
-                                 list-style-type: circle
-                             }
-                                </style>
 </head>
 
 <body>
-   
+    
     <div class="page-wrapper">
 
-         <!--main header of index-->
-         <div id="main_header"></div>
-         <!--main header of index-->
+        <!--main header of index-->
+        <div id="main_header"></div>
+        <!--main header of index-->
 
         <!-- Preloader -->
         <div class="preloader"></div>
 
         <!-- Main Header-->
-       <!--<header class="main-header header-style-five five-alternate">
+        <!--<header class="main-header header-style-five five-alternate">
 
-           
+            
             <div class="header-top">
                 <div class="auto-container">
                     <div class="inner-container clearfix">
@@ -74,7 +69,7 @@
             </div>
            
 
-           
+          
             <div class="header-upper">
                 <div class="auto-container">
                     <div class="clearfix">
@@ -82,7 +77,7 @@
                             <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
                         </div>
                         <div class="nav-outer clearfix">
-                           
+                         
                             <nav class="main-menu navbar-expand-md">
                                 <div class="navbar-header">
                                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -95,7 +90,7 @@
                                     <ul class="navigation clearfix">
                                         <li><a href="index.html">Home</a>
                                         </li>
-                                       <li class="dropdown"><a href="#">Our Company</a>
+                                        <li class="dropdown"><a href="#">Our Company</a>
                                             <ul class="dropdown-menu dropdown-menu-right ml-auto">
                                                 <li><a href="about.html#Overview">Overview</a></li>
                                                 <li><a href="about.html#About">About us </a></li>
@@ -103,7 +98,7 @@
                                                
                                             </ul>
                                         </li>
-                                      
+                                        
 									<li><a href="#">Our Company</a>
 									</li>
 
@@ -113,7 +108,7 @@
 
                                                     <ul class="dropdown-menu dropdown-menu-right mr-auto">
                                                         <li><a href="technologies.html">Blockchain</a></li>
-                                                 
+                                                        
                                                         <li><a href="iot.html">IoT</a></li>
                                                         <li><a href="machine.html">Machine Learning</a></li>
                                                         <li><a href="mobility.html">Enterprise Mobility solutions</a></li>
@@ -209,18 +204,18 @@
                     </div>
                 </div>
             </div>
-         
+            
 
-           
+            
             <div class="sticky-header">
                 <div class="auto-container clearfix">
                    
                     <div class="logo pull-left">
                         <a href="index.html" class="img-responsive"><img src="images/logo-small.png" alt="" title=""></a>
                     </div>
-                   
+                    
                     <div class="right-col pull-right">
-                      
+                     
                         <nav class="main-menu navbar-expand-md">
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="icon-bar"></span>
@@ -231,7 +226,7 @@
                                 <ul class="navigation clearfix">
                                     <li><a href="index.html">Home</a>
                                     </li>
-                                    <li class="dropdown"><a href="#">Our Company</a>
+                                     <li class="dropdown"><a href="#">Our Company</a>
                                             <ul class="dropdown-menu dropdown-menu-right ml-auto">
                                                 <li><a href="about.html#Overview">Overview</a></li>
                                                 <li><a href="about.html#About">About us </a></li>
@@ -300,7 +295,7 @@
                                                 </ul>
                                             </li>
                                             
-                                           <li class="dropdown"><a href="#">Infrastructures Solution</a>
+                                         <li class="dropdown"><a href="#">Infrastructures Solution</a>
                                                 <ul class="dropdown-menu dropdown-menu-right mr-auto">
                                                     <li><a href="infras.html#dev">DevOps</a></li>
                                                     <li><a href="infras.html#aws">AWS </a></li>
@@ -340,7 +335,7 @@
                     </div>
                 </div>
             </div>
-          
+            
 
         </header>-->
         <!--End Main Header -->
@@ -349,166 +344,427 @@
         <section class="page-title page-title-height" style="background-image:url(images/background/block-chain.png)">
             <div class="auto-container">
                 <div class="content  col-12 col-md-7 pl-0" style="margin-top: 5rem;">
-                    <h1>“Stay connected as you go &amp; Automate complex and time-consuming part of your business”</h1>
-                    <p class="sub-title text-white">The new work culture is encouraging employees to work from remote locations, on the move
-and working from home using any device like smartphone, tablet etc. from anywhere and to be
-flexible. Staying connected to the team and business as you go where you go with any
-compatible electronic device is the spine to enterprise mobility. It comprises of a set of services
-and technologies for mobile management system and also looks into Security of data.</p>
-                    
+                    <h1>“Computers are here to hear you, see you, learn from you and grow into Future to help you”</h1>
+                    <p class="sub-title text-white">Machine learning, the best and fastest growing technology today which helps with computer
+program development and automation which can capture data from places required and learn
+it themselves. Also, it is basically artificial intelligence. These programs grow data and learn
+more and more and improve experience of the requirement along with it. They can study
+patterns, historical data and inferences too with various types of algorithm.</p>
+
                 </div>
             </div>
         </section>
         <!--End Page Title-->
         <!-- logo-->
-        <section class="news-section pb-5 pt-5 bg-light client-logo ">
+        <section class="news-section pb-5 pt-5 bg-white client-logo">
             <div class="auto-container">
                 <div class="sec-title centered">
-                    <h2>Enterprise mobility<span> </span></h2>
-                    <p class="px-0 px-md-5">When it comes to offering business solutions we drive excellence through our expertise in Enterprise Mobility Solutions. Technology is one ever changing truth, the important factor is the rapid pace with which a business demands a solution. We, at Peerbits offer an extensive range of mobile enterprise solutions to help them stay at the top of their business market. If there’s one thing which makes us an expert is the constant urge to update ourselves with the change and strategize the enterprise mobility solutions. We just don’t provide mobile solutions, we deploy them, strategically.</p>
+                    <h2>Get Market-driven Machine Learning Services</h2>
+                    <p class="text px-0 px-md-5">Our machine learning company in India provides next-gen machine learning solutions that help your business reach new hights so that you can keep ahead of the competition.</p>
 
                 </div>
-                
+                <div class="row mb-4 align-items-start services-block-six">
+                    <div class="col-sm-4 inner-box text-center wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <img src="images/brands/chain.png" alt="nodejs">
+                        <h6>Cognitive Insight</h6>
+                        <p class="text">From customer records and transaction logs to geospatial data and social media postings, our machine learning solutions comb through fragmented data to unfold trends and patterns. Our cognitive insights resolves complex business problems in effective manner</p>
+                    </div>
+                    <div class="col-sm-4 inner-box text-center wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <img src="images/brands/settings(1).png" alt="nodejs">
+                        <h6>Cognitive Engagement</h6>
+                        <p class="text">Our machine learning company augments customer-facing web & mobile apps. Cognitive agents address the customers’ incoming requests and questions about product options and stock availability, billing and account interactions, tech support, escalating to human operators if necessary.</p>
+                    </div>
+                    <div class="col-sm-4 inner-box text-center wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <img src="images/brands/Private-Blockchain.png" alt="nodejs">
+                        <h6>Cognitive Automation</h6>
+                        <p class="text">Our machine learning firm in India helps in automating business processes on different levels, from complex trade-offs and decision making about the resources to routine tasks like e-mail sending and form filling.</p>
+                    </div>
+
+
+                </div>
+                <div class="row mb-4 align-items-center services-block-six">
+                    <div class="col-sm-4 inner-box text-center wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <img src="images/brands/chain.png" alt="nodejs">
+                        <h6>Data Mining</h6>
+                        <p class="text">Using mathematical and statistical techniques, our machine learning company develops algorithms that analyze a plethora of raw data sources to discover meaningful correlations & patterns, and support decision-making of business of all sizes.</p>
+                    </div>
+                    <div class="col-sm-4 inner-box text-center wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <img src="images/brands/settings(1).png" alt="nodejs">
+                        <h6>Natural Language Processing</h6>
+                        <p class="text">The experts at our machine learning company deliver advanced solutions that derive semantic information—entities, concepts, keywords, relations and emotions—from human speech and language on social media, and web apps.</p>
+                    </div>
+                    <div class="col-sm-4 inner-box text-center wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <img src="images/brands/Private-Blockchain.png" alt="nodejs">
+                        <h6>Robotic Process Automation</h6>
+                        <p class="text">Our team of machine learning developers & programmers creates effective bots that perform routine rules-based tasks through the user interface, mimicking human interaction with software apps and enabling you to focus on high-level tasks. </p>
+                    </div>
+
+
+                </div>
 
             </div>
         </section>
-        <section class="news-section pb-5 pt-5 bg-white">
+        <section class="pb-5 pt-4 bg-light">
             <div class="auto-container">
-              
-                <div class="row pb-5 align-items-start services-block-six border-bottom">
-                    <div class="col-sm-6 inner-box text-left">
-                        <div class="row">
-                            <div class="col-12 wow fadeInLeft animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                 <h4>We provide best enterprise mobility solutions</h4>
-                         <p class="text">Our success lies in providing best enterprise mobile solutions through mobile app development. At every step we aim to deliver and deploy the business solutions for the success of your business. We don’t do the process alone, rather, we include you in the decision making process and also implement the ideas shared by the businesses.</p>
-                         <p class="text"><strong>In order to provide best Enterprise mobility solutions, we offer:</strong></p>
-                       
-                         <ul class="text list pl-3">
-                             <li>Mobile Content Management</li>
-                             <li>Mobile Security Management</li>
-                             <li>Mobile Policy Management</li>
-                             <li>BYOD Management</li>
-                             <li>Mobile Lifecycle Management</li>
-                         </ul>
-                        
-                            </div>
-                            
-                          
-                        </div>
-                    </div>
-                    <div class="video-column col-lg-6 col-md-12 col-sm-12 inner-box text-center wow fadeInRight animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
-                        <div class="inner-column">
-                            <!--Video Box-->
-                            <div class="video-box">
-                                <figure class="image">
-                                     <img src="images/background/health.jpg" class="img-fluid" alt="nodejs">
-                                </figure>
-                            </div>
-                        </div>
-                    </div>
-                
-                    
+                <div class="sec-title centered pt-3">
+                    <h2>Machine Learning Languages</h2>
+                    <p class="text">Be it Python machine learning development from the scratch or slight change to your existing system, our machine learning company anticipates the output of the technology choice and offer the best possible advice on how to attain your goal with minimum investments. </p>
 
                 </div>
-                <div class="row  pt-4 align-items-start services-block-six ">
-                    <div class="video-column col-lg-6 col-md-12 col-sm-12 inner-box text-center wow fadeInRight animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
-                        <div class="inner-column">
-                            <!--Video Box-->
-                            <div class="video-box">
-                                <figure class="image">
-                                     <img src="images/background/retails.jpg" class="img-fluid" alt="nodejs">
-                                </figure>
+                <div class="row clearfix align-items-stretch">
+
+                    <!-- Services Block Six -->
+                    <div class="services-block-six col-lg-6 col-md-12 col-sm-12">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
+                            <div class="card text-center px-4 py-3 border-0 shadow">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <h6 class="mt-2"><a href="#">PYTHON</a></h6>
+                                        <div class="text">Because of its multicore architectures and data science libraries like TensorFlow, Theano, Pandas, Scikit-learn and others, Python is the language of our choice for web apps on distributed servers with integrated machine learning engines. </div>
+                                    </div>
+                                </div>
                             </div>
+
+
+
                         </div>
                     </div>
-                    <div class="col-sm-6 inner-box text-left">
-                        <div class="row">
-                            <div class="col-12 wow fadeInLeft animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                 <h4>We provide best enterprise mobility solutions</h4>
-                         <p class="text">Our success lies in providing best enterprise mobile solutions through mobile app development. At every step we aim to deliver and deploy the business solutions for the success of your business. We don’t do the process alone, rather, we include you in the decision making process and also implement the ideas shared by the businesses.</p>
-                         <p class="text"><strong>In order to provide best Enterprise mobility solutions, we offer:</strong></p>
-                       
-                         <ul class="text list pl-3">
-                             <li>Mobile Content Management</li>
-                             <li>Mobile Security Management</li>
-                             <li>Mobile Policy Management</li>
-                             <li>BYOD Management</li>
-                             <li>Mobile Lifecycle Management</li>
-                         </ul>
-                        
+
+                    <!-- Services Block Six -->
+                    <div class="services-block-six col-lg-6 col-md-12 col-sm-12">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
+                            <div class="card text-center px-4 py-3 border-0 shadow">
+                                <div class="row">
+                                    <div class="col-12">
+
+                                        <h6 class="mt-2"><a href="#">R </a></h6>
+                                        <div class="text">A friendly technology for graphics and statistical computing, R provides built-in packages that our developers use to create customized machine learning algorithms, interactive plotting and reporting tools as well as to do exploratory work.</div>
+                                    </div>
+                                </div>
                             </div>
-                            
-                          
+
+
                         </div>
                     </div>
-                  
+                    
                 </div>
-                
-                 
-                     
-                
+                <!-- Services Text -->
+
 
             </div>
         </section>
-        <!--       end-->
-<section class="news-section pb-5 pt-5 bg-light client-logo technologies-explore">
+             <section class="pb-5 pt-4 bg-white">
+            <div class="auto-container">
+                <div class="sec-title centered pt-3">
+                    <h2>Model Development</h2>
+                    <p class="text">elying on any 3rd party Python machine learning development models by platform service providers, PixelCrayons trains, builds, deploys and validates tailored solutions that discover patterns & learn from historical data and examples. Our team also fine-tunes and trains custom machine learning models according to specific business needs.</p>
+
+                </div>
+                <div class="row clearfix align-items-stretch">
+
+                    <!-- Services Block Six -->
+                    <div class="services-block-six col-lg-6 col-md-12 col-sm-12">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
+                            <div class="card text-center px-4 py-3 border-0 shadow">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <h6 class="mt-2"><a href="#">BUILDING</a></h6>
+                                        <div class="text">Our machine leaning firm in India enriches standard Python machine learning development models with custom data preprocessing scripts vectorising data, removing correlations and outliers. Uploading the prepared dataset, our team of machine learning & artificial intelligence developers configure the machine learning model in line with your objectives.</div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                    </div>
+
+                    <!-- Services Block Six -->
+                    <div class="services-block-six col-lg-6 col-md-12 col-sm-12">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
+                            <div class="card text-center px-4 py-3 border-0 shadow">
+                                <div class="row">
+                                    <div class="col-12">
+
+                                        <h6 class="mt-2"><a href="#">TRAINING</a></h6>
+                                        <div class="text">Our machine learning company runs training algorithms that find dependencies across disparate datasets, including unstructured and structured human-generated and system-provided data. </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                    <!-- Services Block Six -->
+                    <div class="services-block-six col-lg-6 col-md-12 col-sm-12">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
+                            <div class="card text-center px-4 py-3 border-0 shadow">
+                                <div class="row">
+                                    <div class="col-12">
+
+                                        <h6 class="mt-2"><a href="#">TUNING</a></h6>
+                                        <div class="text">ML developers & programmers at PixelCrayons evaluate the results generated by the machine learning model and fine-tune the model parameters on a continious basis until the results get fully acceptable.</div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                     <!-- Services Block Six -->
+                    <div class="services-block-six col-lg-6 col-md-12 col-sm-12">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
+                            <div class="card text-center px-4 py-3 border-0 shadow">
+                                <div class="row">
+                                    <div class="col-12">
+
+                                        <h6 class="mt-2"><a href="#">DEPLOYMENT</a></h6>
+                                        <div class="text">The team at our machine learning company wraps the machine learning model source code into a separate container, publishing it to the required platform, so that you can start inference on the new data.</div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                    
+                </div>
+                <!-- Services Text -->
+
+
+            </div>
+        </section>
+        <section class="services-section-seven py-4 bg-light">
+		<div class="auto-container">
+		      <div class="sec-title centered pt-3">
+                    <h2>What Can Machine Learning & Artificial Intelligence Do For You?</h2>
+                    <p class="text">Machine learning development is the talk of the town these days. It provides a plethora of benefits to the businesses. Here are some of the ML for different industry verticals:</p>
+
+                </div>
+			<div class="inner-container mt-4">
+				<div class="row">
+					
+					<!-- Services Block Ten -->
+					<div class="services-block-ten col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-box wow h-100 fadeInUp animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+						    <h6 class="text-dark">Machine Learning for Sales</h6>
+							<ul class="list-style-three">
+								<li>Improve sales forecasting</li>
+								<li>Interpret customer data</li>
+								<li>Predict customer needs</li>
+								<li>Efficient transactional sales</li>
+								<li>Sales communication</li>
+								
+							</ul>
+						</div>
+					</div>
+					
+					<!-- Services Block Ten -->
+					<div class="services-block-ten col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-box wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInUp;">
+						    <h6 class="text-dark">ML for Finance</h6>
+							<ul class="list-style-three">
+								<li>Detecting fraud</li>
+								<li>Underwriting loan/insurance</li>
+								<li>Algorithmic trading</li>
+								<li>Portfolio management</li>
+								<li>Sentiment/new analysis</li>
+								<li>Customer service.</li>
+							</ul>
+						</div>
+					</div>
+					<!-- Services Block Ten -->
+					<div class="services-block-ten col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-box wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInUp;">
+						    <h6 class="text-dark">ML for Marketing</h6>
+							<ul class="list-style-three">
+								<li>Detecting fraud</li>
+								<li>Precisely meet the customer’s requirements</li>
+								<li>Offer customized offers to customers</li>
+								<li>Analyze previous buying patterns</li>
+							</ul>
+						</div>
+					</div>
+					
+					<!-- Services Block Ten -->
+					<div class="services-block-ten col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-box wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInUp;">
+						    <h6 class="text-dark">ML for Marketing</h6>
+							<ul class="list-style-three">
+								<li>Track and assess applicants.</li>
+								<li>Attract relevant talent</li>
+								<li>Detect attrition</li>
+								<li>Individual skill management</li>
+							</ul>
+						</div>
+					</div>
+					
+					
+					
+				</div>
+			</div>
+		</div>
+	</section>
+         <section class="services-section-seven py-4">
+		<div class="auto-container">
+		      <div class="sec-title centered pt-3">
+                    <h2>Platforms</h2>
+                    <p class="text">ur machine learning company relies on 3rd-party pre-trained machine learning app development services that provide image, video processing, speech recognition, gesture, text analytics, and semantic search, as well as bot functionality. Ready-to-use interactive canvas coupled with preconfigured components enable our machine learning firm to jumpstart custom regression and classification models development for your particular business vertical.</p>
+
+                </div>
+			<div class="inner-container mt-4">
+				<div class="row">
+					
+					<!-- Services Block Ten -->
+					<div class="services-block-ten col-lg-4 col-md-6 col-sm-12">
+						<div class=" p-3 sec-title wow h-100 fadeInUp animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+						    <h6 class="text">Azure</h6>
+							<ul class="list-style-three">
+								<li class="text">Azure Machine Learning</li>
+								<li class="text">Azure Cognitive Services</li>
+								<li class="text">Language Understanding Intelligent Service</li>
+								<li class="text">Efficient transactional sales</li>
+								<li class="text">Chatbot Framework</li>
+								
+							</ul>
+						</div>
+					</div>
+					
+					<!-- Services Block Ten -->
+					<div class="services-block-ten col-lg-4 col-md-6 col-sm-12">
+						<div class=" p-3 sec-title wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInUp;">
+						    <h6 class="text">Google Cloud</h6>
+							<ul class="list-style-three">
+								<li class="text">Cloud Machine Learning Engine</li>
+								<li class="text">Cloud Vision API</li>
+								<li class="text">Cloud Natural Language</li>
+								<li class="text">Cloud Speech API</li>
+								<li class="text">DialogFlow</li>
+							</ul>
+						</div>
+					</div>
+					<!-- Services Block Ten -->
+					<div class="services-block-ten col-lg-4 col-md-6 col-sm-12">
+						<div class=" p-3 sec-title wow  fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInUp;">
+						    <h6 class="text">ML for Marketing</h6>
+							<ul class="list-style-three">
+								<li class="text">Amazon Machine Learning</li>
+								<li class="text">Amazon Rekognition</li>
+								<li class="text">Amazon Lex</li>
+								<li class="text">Amazon Polly</li>
+							</ul>
+						</div>
+					</div>
+					
+					
+					
+					
+				</div>
+			</div>
+		</div>
+	</section>
+        
+        
+        <section class="services-section-seven py-5 bg-light">
+		<div class="auto-container">
+		 <div class="sec-title centered pt-3">
+                    <h2>Our Engagement Models</h2>
+                    <p class="text">Being a leading chatbot development company in India, we provide flexible engagement models in order to meet diverse business needs and demands</p>
+
+                </div>
+			<div class="inner-container my-4">
+				<div class="row clearfix">
+					
+					<!-- Services Block Ten -->
+					<div class="services-block-ten col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-box wow fadeInUp animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+							
+							<div class="upper-box d-flex flex-column">
+								<div class="icon-box">
+									<span class="icon flaticon-medal-1"></span>
+								</div>
+								<h4><a href="#">Dedicated Resource Model (DRM)</a></h4>
+							</div>
+							<div class="text">In this model, we provide you with dedicated infrastructure and skilled professionals who work exclusively on your project.
+
+Choose this model if you want total control of development processes and don’t want to get into fuss of hiring employees.</div>
+							<ul class="list-style-three">
+								<li>No hidden costs</li>
+								<li>Monthly billing</li>
+								<li>Pay only for measurable work done</li>
+							</ul>
+						</div>
+					</div>
+					
+					<!-- Services Block Ten -->
+					<div class="services-block-ten col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-box wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInUp;">
+						
+							<div class="upper-box">
+								<div class="icon-box">
+									<span class="icon flaticon-diamond-1"></span>
+								</div>
+								<h4><a href="#">Fixed Time & Fixed Price</a></h4>
+							</div>
+							<div class="text">Under this low-risk model, we work with clients to define expected deliverables and timelines to determine a mutually agreed fixed price. Choose this model if your requirements are unlikely to alter and project duration can be determined.</div>
+							<ul class="list-style-three">
+								<li>Know what you’re getting, and how much it will be</li>
+								<li>Requires no change in price unless your needs it</li>
+								<li>Can be split and paid in milestones</li>
+								
+							</ul>
+						</div>
+					</div>
+					
+				
+					
+					
+				</div>
+			</div>
+		</div>
+	</section>
+<section class="news-section pb-5 pt-5 bg-white client-logo">
             <div class="auto-container">
                 <div class="sec-title centered">
-                    <h2>Featured industries</h2>
+                    <h2>Our Chatbot Development Process </h2>
+                    <p class="text px-0 px-md-5">We follow agile Chatbot development process in order to ensure timely delivery to our clients. Here is the complete process:</p>
 
                 </div>
-                <div class="row mb-4 justify-content-center">
-                    <div class="col-sm-2 text-center">
-                        <img src="images/brands/capitol-building.png" alt="nodejs">
-                        <p>Travel</p>
+                <div class="row mb-4 align-items-start services-block-six">
+                    <div class="col-sm-4 inner-box text-left wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                   
+                        <div class="row">
+                            <div class="col-2"><span class="fa fa-angle-right"></span></div>
+                            <div class="col-10"><h6>REQUIREMENT GATHERING</h6></div>
+                        </div>
+                        <p class="text">You (the client) contact us and share your project requirement with us. Then, our experts will review your project and contact you within 24 hours. </p>
                     </div>
-                    <div class="col-sm-2 text-center">
-                        <img src="images/brands/heart.png" alt="nodejs">
-                        <p>Health & Fitness</p>
+                    <div class="col-sm-4 inner-box text-left wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+
+                        <h6>CHOOSE ENGAGEMENT
+MODELS & TIMELINES</h6>
+                        <p class="text">Based on the project, our experts suggest you the best engagement model, estimated timelines and cost for project development.</p>
                     </div>
-                    <div class="col-sm-2 text-center">
-                        <img src="images/brands/home(1).png" alt="nodejs">
-                        <p>Healthcare</p>
+                    <div class="col-sm-4 inner-box text-left wow fadeInUp animated animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        
+                        <h6>PROJECT INITIATION
+& DELIVERY </h6>
+                        <p class="text">As per engagement model, project is allocated to an expert team, and after robust quality analysis our project manager delivers project as per timeline.</p>
                     </div>
-                    <div class="col-sm-2 text-center">
-                        <img src="images/brands/bank.png" alt="nodejs">
-                        <p>Education</p>
-                    </div>
-                    <div class="col-sm-2 text-center">
-                        <img src="images/brands/health-insurance.png" alt="nodejs">
-                        <p>Technology</p>
-                    </div>
-            
-               
-                    <div class="col-sm-2 text-center">
-                        <img src="images/brands/clapperboard.png" alt="nodejs">
-                        <p>Retail</p>
-                    </div>
-                    <div class="col-sm-2 text-center">
-                        <img src="images/brands/health-insurance.png" alt="nodejs">
-                        <p>Finance</p>
-                    </div>
-                    <div class="col-sm-2 text-center">
-                        <img src="images/brands/retail.png" alt="nodejs">
-                        <p>Social Network</p>
-                    </div>
-                    <div class="col-sm-2 text-center">
-                        <img src="images/brands/supply.png" alt="nodejs">
-                        <p>Real Estate</p>
-                    </div>
-                      <div class="col-sm-2 text-center">
-                        <img src="images/brands/clapperboard.png" alt="nodejs">
-                        <p>Business</p>
-                    </div>
-                    
-               
-               
+
+
                 </div>
+                
+
             </div>
         </section>
-        
+      
 
-        
+
+
+
+
+
         <section class="news-section footer-query-form pb-5 pt-5 bg-white client-logo technologies-explore" style="background-image:url(images/background/conatct.jpg); background-position: center center; background-size: cover;">
             <div class="auto-container">
                 <div class="sec-title centered">
@@ -517,22 +773,26 @@ and technologies for mobile management system and also looks into Security of da
                 </div>
                 <div class="row mb-4 justify-content-center">
                     <div class="col-sm-7 form-inner rounded px-4 border border-primary py-4 shadow-sm">
-                        <form action="mail.php" class="row" method="POST">
+                    <?php include('mail.php'); ?>
+                        <form action="<?= $_SERVER['PHP_SELF']; ?>" class="row" method="POST">
                             <div class="form-group col-sm-6">
                                 <label >Name <span class="text-danger">*</span></label>
-                                <input type="text" class="form-control" placeholder="Name" id="email" name="name">
+                                <input type="text" class="form-control" placeholder="Name" id="email" name="name" value="<?= $name ?>">
+                                <span class="form-error"><?= $name_error ?></span>
                             </div>
                             <div class="form-group col-sm-6">
                                 <label >Email <span class="text-danger">*</span></label>
-                                <input type="email" class="form-control" placeholder="Email" id="pwd" name="email">
+                                <input type="text" class="form-control" placeholder="Email" id="pwd" name="email" value="<?= $email ?>">
+                                <span class="form-error"><?= $email_error ?></span>
                             </div>
                             <div class="form-group col-sm-6">
                                 <label >Mobile Number <span class="text-danger">*</span></label>
-                                <input type="tel" class="form-control" placeholder="Mobile Number" id="pwd" name="phone">
+                                <input type="text" class="form-control" placeholder="Mobile Number" id="pwd" name="phone" value="<?= $phone ?>">
+                                <span class="form-error"><?= $phone_error ?></span>
                             </div>
                             <div class="form-group col-sm-6">
                                 <label for="country">State <span class="text-danger">*</span></label>
-                                <select  class="form-control" name="country">
+                                <select  class="form-control" name="country" value="<?= $country ?>">
                                     <option value="INDIA">India</option>
                                     <option value="UK">UK</option>
                                     <option value="USA">US</option>
@@ -550,16 +810,17 @@ and technologies for mobile management system and also looks into Security of da
                             </div>
                             <div class="form-group col-sm-12">
                                 <label for="query">Query (Optional)</label>
-                                <textarea class="form-control" rows="3" placeholder="Enter Query" name="query"></textarea>
+                                <textarea class="form-control" rows="3" placeholder="Enter Query" name="message" value="<?= $message ?>"></textarea>
                             </div>
-                             <div class="form-group col-12">
-    <label for="exampleFormControlFile1">Document</label>
-    <input type="file" class="form-control-file" id="exampleFormControlFile1" name="attachment">
-  </div>
+                             <!--<div class="form-group col-12">
+                                <label for="exampleFormControlFile1">Document</label>
+                                <input type="file" class="form-control-file" id="exampleFormControlFile1" name="attachment">
+                            </div>-->
 
                             <div class="d-flex justify-content-center col-12">
-                                 <button type="submit" class="btn btn-success mx-auto">Submit Query</button>
+                                 <button type="submit" name="submit" class="btn btn-success mx-auto" data-submit="...Sending">Submit Query</button>
                             </div>
+                            <div class="sent_message"><?= $success; ?></div>
                         </form>
                     </div>
                 </div>
@@ -569,9 +830,14 @@ and technologies for mobile management system and also looks into Security of da
         </section>
 
 
+
+
+
+
          <!--footer #index-->
          <div id="footer_index"></div>
          <!--footer #index-->
+
 
         <!--Main Footer-->
         <!--<footer class="main-footer">
@@ -582,7 +848,7 @@ and technologies for mobile management system and also looks into Security of da
                        
                         <div class="big-column col-lg-6 col-md-12 col-sm-12">
                             <div class="row clearfix">
-                                
+                               
                                 <div class="footer-column col-lg-7 col-md-6 col-sm-12">
                                     <div class="footer-widget logo-widget">
                                         <div class="logo mb-2">
@@ -597,7 +863,7 @@ and technologies for mobile management system and also looks into Security of da
 
                                     </div>
                                 </div>
-                               
+                                
                                 <div class="footer-column col-lg-5 col-md-6 col-sm-12">
                                     <div class="footer-widget links-widget">
                                         <h4>Solutions</h4>
@@ -613,10 +879,10 @@ and technologies for mobile management system and also looks into Security of da
                                 </div>
                             </div>
                         </div>
-                      
+                     
                         <div class="big-column col-lg-6 col-md-12 col-sm-12">
                             <div class="row clearfix">
-                               
+                             
                                 <div class="footer-column col-lg-6 col-md-6 col-sm-12">
                                     <div class="footer-widget links-widget">
                                         <h4>Services</h4>
@@ -630,7 +896,7 @@ and technologies for mobile management system and also looks into Security of da
                                         </ul>
                                     </div>
                                 </div>
-                                
+                               
                                 <div class="footer-column col-lg-6 col-md-6 col-sm-12">
                                     <div class="footer-widget gallery-widget">
                                         <h4>Resent Blog</h4>
@@ -670,16 +936,16 @@ and technologies for mobile management system and also looks into Security of da
                     </div>
                 </div>
             </div>
-         
+           
             <div class="footer-bottom">
                 <div class="auto-container">
                     <div class="row clearfix">
-                       
+                        
                         <div class="copyright-column col-lg-12 col-md-12 col-sm-12 ">
                             <div class="copyright text-center">2019 &copy; All rights reserved by <a href="#">Wit Arist</a></div>
                         </div>
-                  
-                    
+                       
+                     
                         <div class="social-column col-lg-6 col-md-6 col-sm-12">
 
                             <ul>
@@ -728,7 +994,5 @@ and technologies for mobile management system and also looks into Security of da
     <!--End of Tawk.to Script-->
 </body>
 
-
-<!-- Mirrored from themexriver.com/tfhtml/finano/team.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 02 Nov 2019 05:01:39 GMT -->
 
 </html>

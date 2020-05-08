@@ -784,26 +784,30 @@
             <div class="auto-container">
                 <div class="sec-title centered">
                     <h2 class="text-light">We are happy to help you. Get in touch<span> </span></h2>
-    
+
                 </div>
                 <div class="row mb-4 justify-content-center">
                     <div class="col-sm-7 form-inner rounded px-4 border border-primary py-4 shadow-sm">
-                        <form action="mail.php" class="row" method="POST">
+                    <?php include('mail.php'); ?>
+                        <form action="<?= $_SERVER['PHP_SELF']; ?>" class="row" method="POST">
                             <div class="form-group col-sm-6">
                                 <label >Name <span class="text-danger">*</span></label>
-                                <input type="text" class="form-control" placeholder="Name" id="email" name="name">
+                                <input type="text" class="form-control" placeholder="Name" id="email" name="name" value="<?= $name ?>">
+                                <span class="form-error"><?= $name_error ?></span>
                             </div>
                             <div class="form-group col-sm-6">
                                 <label >Email <span class="text-danger">*</span></label>
-                                <input type="email" class="form-control" placeholder="Email" id="pwd" name="email">
+                                <input type="text" class="form-control" placeholder="Email" id="pwd" name="email" value="<?= $email ?>">
+                                <span class="form-error"><?= $email_error ?></span>
                             </div>
                             <div class="form-group col-sm-6">
                                 <label >Mobile Number <span class="text-danger">*</span></label>
-                                <input type="tel" class="form-control" placeholder="Mobile Number" id="pwd" name="phone">
+                                <input type="text" class="form-control" placeholder="Mobile Number" id="pwd" name="phone" value="<?= $phone ?>">
+                                <span class="form-error"><?= $phone_error ?></span>
                             </div>
                             <div class="form-group col-sm-6">
                                 <label for="country">State <span class="text-danger">*</span></label>
-                                <select  class="form-control" name="country">
+                                <select  class="form-control" name="country" value="<?= $country ?>">
                                     <option value="INDIA">India</option>
                                     <option value="UK">UK</option>
                                     <option value="USA">US</option>
@@ -815,30 +819,30 @@
                                     <option value="Afghanistan">Afghanistan</option>
                                     <option value="Kuait">Kuait</option>
                                 
-    
+
                                     
                                 </select>
                             </div>
                             <div class="form-group col-sm-12">
                                 <label for="query">Query (Optional)</label>
-                                <textarea class="form-control" rows="3" placeholder="Enter Query" name="query"></textarea>
+                                <textarea class="form-control" rows="3" placeholder="Enter Query" name="message" value="<?= $message ?>"></textarea>
                             </div>
-                             <div class="form-group col-12">
-    <label for="exampleFormControlFile1">Document</label>
-    <input type="file" class="form-control-file" id="exampleFormControlFile1" name="attachment">
-    </div>
-    
+                             <!--<div class="form-group col-12">
+                                <label for="exampleFormControlFile1">Document</label>
+                                <input type="file" class="form-control-file" id="exampleFormControlFile1" name="attachment">
+                            </div>-->
+
                             <div class="d-flex justify-content-center col-12">
-                                 <button type="submit" class="btn btn-success mx-auto">Submit Query</button>
+                                 <button type="submit" name="submit" class="btn btn-success mx-auto" data-submit="...Sending">Submit Query</button>
                             </div>
+                            <div class="sent_message"><?= $success; ?></div>
                         </form>
                     </div>
                 </div>
-    
-    
+
+
             </div>
         </section>
-
 
 
          <!--footer #index-->
